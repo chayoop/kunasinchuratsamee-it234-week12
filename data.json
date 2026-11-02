@@ -1,6 +1,6 @@
 {
-  "shopName": "ร้านกาแฟของฉัน",
-  "owner": "ชื่อนักศึกษา",
+  "shopName": "cafa in the jungel",
+  "owner": "kunasin churatsamee",
   "studentId": "6XXXXXXXXX",
   "ownerPhone": "081-234-5678",
   "products": [
@@ -16,7 +16,7 @@
       "id": 2,
       "name": "ชาไทย",
       "price": 45,
-      "emoji": "🧋",
+      "emoji": "☕",
       "available": true,
       "tags": ["ชา", "เย็น", "ขายดี"]
     },
@@ -27,6 +27,13 @@
       "emoji": "🥐",
       "available": false,
       "tags": ["เบเกอรี่"]
-    }
+    },
+    {
+      "id": 4,
+      "name": "กาแฟร้อน",
+      "price": 45,
+      "emoji": "☕︎",
+      "available": true,
+      "tags": ["กาแฟ","ร้อน","ขายดี"]
   ]
 }
